@@ -1,0 +1,6 @@
+# Here goes the python code
+celsius = int(input())
+def Conv(c):
+    return (9/5)*c+32
+fahrenheit = Conv(celsius)
+print(fahrenheit)
